@@ -1,5 +1,5 @@
 # Contributor Covenant Code of Conduct
-AKIAQLOQXKH7J5OCKQFC
+aws_access_key_id=AKIAQLOQXKH7J5OCKQFC
 ## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as
